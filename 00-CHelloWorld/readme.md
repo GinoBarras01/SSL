@@ -1,1 +1,2 @@
-Compilador usado: MinGW
+Compilador usado: C18
+
