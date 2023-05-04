@@ -1,8 +1,13 @@
 Compilador usado: C18
+
 Equipo 8
+
 Usuario GitHub: GinoBarras01
+
 Legajo: 213.251-5
+
 Apellido: Barrás
+
 Nombre: Gino Elián
 
 TP0- Hello World
